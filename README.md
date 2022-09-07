@@ -2,13 +2,15 @@
 
 - :construction: Хочу научиться создавать проекты с гибкой и совершенной структурой, которую легко развивать и дополнять.
 
-- :chart_with_upwards_trend: Повышать производительность приложений и SEO оптимизацию. 
-
 - :computer: Освоить новые фреймворки и технологии.
 
-- 
+- :chart_with_upwards_trend: Хочу повышать производительность приложений и SEO оптимизацию. 
 
-#### Мой стэк:
+- :dancers: Стать частью опытной команды
+
+- :fire: Стремиться к вершинам web-разработки
+
+#### :wrench: Мой стэк:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,15 +24,19 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-#### Ближайшие цели для изучения:
+#### :mortar_board: Ближайшие цели для изучения:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-Astapov-1)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vadim-Astapov-1)](https://git.io/streak-stats)
+### :trophy: Моя статистика
 
-### Интересные проекты
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-Astapov-1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vadim-Astapov-1)](https://git.io/streak-stats)
+
+### :briefcase: Интересные проекты
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=movies-explorer-frontend)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=movies-explorer-api)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=mesto-frontend)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=mesto-api)](https://github.com/anuraghazra/github-readme-stats)
