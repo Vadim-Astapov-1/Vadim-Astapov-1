@@ -1,6 +1,10 @@
 ![header](https://github.com/Vadim-Astapov-1/Vadim-Astapov-1/blob/main/header.png)
 
-#### Хочу научится создавать проекты с гибкой и совершенной структурой, которую легко развивать и дополнять.
+- :construction: Хочу научиться создавать проекты с гибкой и совершенной структурой, которую легко развивать и дополнять.
+
+- :chart_with_upwards_trend: Повышать производительность приложений и SEO оптимизацию. 
+
+- :computer: Освоить новые фреймворки и технологии.
 
 #### Мой стэк:
 
@@ -18,6 +22,8 @@
 
 #### Ближайшие цели для изучения:
 
-* ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-* ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-Astapov-1)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vadim-Astapov-1)](https://git.io/streak-stats)
