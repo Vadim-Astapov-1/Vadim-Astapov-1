@@ -27,3 +27,9 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-Astapov-1)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vadim-Astapov-1)](https://git.io/streak-stats)
+
+### Интересные проекты
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=movies-explorer-frontend)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=movies-explorer-api)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=mesto-frontend)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=mesto-api)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=travel-in-russian )](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=how-to-learn)](https://github.com/anuraghazra/github-readme-stats)
