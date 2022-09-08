@@ -1,4 +1,5 @@
 ![header](https://github.com/Vadim-Astapov-1/Vadim-Astapov-1/blob/main/header.png)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vadim_astapov)
 
 - :construction: Хочу научиться создавать проекты с гибкой и совершенной структурой, которую легко развивать и дополнять.
 
@@ -38,6 +39,6 @@
 
 ### :briefcase: Интересные проекты
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=movies-explorer-frontend)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=movies-explorer-api)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=mesto-frontend)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=mesto-api)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=travel-in-russian )](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=how-to-learn)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=movies-explorer-frontend)](https://github.com/Vadim-Astapov-1/movies-explorer-frontend)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=movies-explorer-api)](https://github.com/Vadim-Astapov-1/movies-explorer-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=mesto-frontend)](https://github.com/Vadim-Astapov-1/mesto-frontend)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=mesto-api)](https://github.com/Vadim-Astapov-1/mesto-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=travel-in-russian )](https://github.com/Vadim-Astapov-1/travel-in-russian)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=how-to-learn)](https://github.com/Vadim-Astapov-1/how-to-learn)
