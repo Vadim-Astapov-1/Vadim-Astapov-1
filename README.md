@@ -1,13 +1,13 @@
 ![header](https://github.com/Vadim-Astapov-1/Vadim-Astapov-1/blob/main/header.png)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vadim_astapov)
 
-- :construction: Хочу cоздавать проекты с гибкой и совершенной структурой, которую легко развивать и дополнять.
+- :construction: Хочу cоздавать проекты с гибкой и совершенной структурой, которую легко развивать и дополнять
 
-- :computer: Освоить новые фреймворки и технологии.
+- :computer: Освоить новые фреймворки и технологии
 
-- :chart_with_upwards_trend: Повышать производительность приложений. 
+- :chart_with_upwards_trend: Повышать производительность приложений
 
-- :fire: Стремиться к вершинам разработки.
+- :fire: Стремиться к вершинам разработки
 
 #### :wrench: Мой стэк:
 
