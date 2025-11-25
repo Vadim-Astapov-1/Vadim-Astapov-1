@@ -1,15 +1,13 @@
 ![header](https://github.com/Vadim-Astapov-1/Vadim-Astapov-1/blob/main/header.png)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vadim_astapov)
 
-- :construction: Хочу научиться создавать проекты с гибкой и совершенной структурой, которую легко развивать и дополнять.
+- :construction: Хочу cоздавать проекты с гибкой и совершенной структурой, которую легко развивать и дополнять.
 
 - :computer: Освоить новые фреймворки и технологии.
 
 - :chart_with_upwards_trend: Повышать производительность приложений. 
 
-- :dancers: Стать частью опытной команды.
-
-- :fire: Стремиться к вершинам web-разработки.
+- :fire: Стремиться к вершинам разработки.
 
 #### :wrench: Мой стэк:
 
@@ -25,17 +23,24 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
 
 #### :mortar_board: Ближайшие цели для изучения:
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=fff)
+![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
@@ -45,8 +50,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vadim-Astapov-1)](https://git.io/streak-stats)
 
-### :briefcase: Интересные проекты
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=movies-explorer-frontend)](https://github.com/Vadim-Astapov-1/movies-explorer-frontend)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=movies-explorer-api)](https://github.com/Vadim-Astapov-1/movies-explorer-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=mesto-frontend)](https://github.com/Vadim-Astapov-1/mesto-frontend)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=mesto-api)](https://github.com/Vadim-Astapov-1/mesto-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=travel-in-russian )](https://github.com/Vadim-Astapov-1/travel-in-russian)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vadim-Astapov-1&repo=how-to-learn)](https://github.com/Vadim-Astapov-1/how-to-learn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-Astapov-1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
