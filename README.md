@@ -46,8 +46,5 @@
 
 ### :trophy: Моя статистика
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vadim-Astapov-1)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vadim-Astapov-1)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadim-Astapov-1)](https://github.com/anuraghazra/github-readme-stats)
