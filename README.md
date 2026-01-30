@@ -1,13 +1,11 @@
 ![header](https://github.com/Vadim-Astapov-1/Vadim-Astapov-1/blob/main/header.png)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vadim_astapov)
 
-- :construction: Хочу cоздавать проекты с гибкой и совершенной структурой, которую легко развивать и дополнять
+- :construction: Чистая архитектура
 
-- :computer: Освоить новые фреймворки и технологии
+- :computer: Фреймворк - это только инструмент, поэтому их надо знать много или может хватит все этого и уйти в Angular?
 
-- :chart_with_upwards_trend: Повышать производительность приложений
-
-- :fire: Стремиться к вершинам разработки
+- :fire: Вдохновляют сложные и интересные задачи
 
 #### :wrench: Мой стэк:
 
@@ -46,5 +44,5 @@
 
 ### :trophy: Моя статистика
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vadim-Astapov-1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vadim-Astapov-1)](https://git.io/streak-stats)
 
